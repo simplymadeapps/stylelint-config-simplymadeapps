@@ -6,10 +6,10 @@ Install the package via [Yarn](https://yarnpkg.com):
 yarn add stylelint-config-simplymadeapps --dev
 ```
 
-Create the .stylelintrc file in the root of the project containing:
+Create the `.stylelintrc` file in the root of the project containing:
 
 ```json
 {
-  "extends": "simplymadeapps"
+  "extends": "stylelint-config-simplymadeapps"
 }
 ```
