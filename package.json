@@ -4,6 +4,9 @@
   "description": "stylelint config for Simply Made Apps",
   "homepage": "https://github.com/simplymadeapps/stylelint-config-simplymadeapps",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
