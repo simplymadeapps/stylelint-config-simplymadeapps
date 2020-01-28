@@ -1,5 +1,6 @@
 module.exports = {
   "extends": ["stylelint-prettier/recommended"],
+  "ignoreFiles": ["**/*.!(css)"],
   "plugins": [
     "stylelint-order"
   ],
